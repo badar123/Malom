@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Malom/AI.cs">
+    <Files>
+      <File FileName="Malom/Gui.cs" Line="257" Column="34" />
+      <File FileName="Malom/Gui.Designer.cs" Line="125" Column="52" />
+      <File FileName="Malom/Logic.cs" Line="101" Column="40" />
+      <File FileName="Malom/AI.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Malom" expanded="True">
+            <Node name="AI.cs" selected="True" />
+            <Node name="Gui.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
